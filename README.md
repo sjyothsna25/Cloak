@@ -12,14 +12,11 @@
 
 1.Keep the PC steady and make sure there is nothing in front of the camera at first. </br>
 2. Execute the python script provided above.
-</br>
 
 3.Two windows will appear: the first displaying the Hue, Saturation, and Value of the sheet's colour, and the second displaying the output.
 
-</br>
-
 4.Adjust the HSV values so that the colour of the sheet is within the range.
 
-</br>
+
 
 5.Appreciate the impact.
